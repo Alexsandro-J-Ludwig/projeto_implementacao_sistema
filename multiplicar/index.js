@@ -6,4 +6,4 @@ function multiplicar(a, b) {
 }
 
 console.log(multiplicar(num1, num2));
-println(multiplicar(num1, num2));
+multiplicar(num1, num2);
